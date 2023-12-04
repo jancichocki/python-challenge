@@ -8,3 +8,8 @@ Welcome to the PyRamen Analysis Tool, a sophisticated Python application designe
 - **Menu Performance Tracking** 🍽️: Compares sales data with menu offerings to calculate key metrics for each item.
 - **Intuitive Profit Calculations** 💰: Computes the profit for each menu item, taking into account the cost and sales price.
 - **Automated Report Generation** 🖨️: Outputs a detailed report summarizing key metrics including count, revenue, cost, and profit per item.
+
+### Installation and Usage
+- For more information, check out the dedicated [PyRamen README](PyRamen/README.md)
+- You can find the scripts in the [PyRamen directory](PyRamen/).
+- The simple script version: [main.ipynb](PyRamen/main.ipynb)
