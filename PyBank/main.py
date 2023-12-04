@@ -1,3 +1,9 @@
+"""
+This module performs financial analysis for PyBank. It reads financial data from a CSV file, 
+calculates various statistics such as total months, total profit/loss, average change, 
+and greatest increase/decrease in profits, and outputs the results both to the console and a text file.
+"""
+
 import csv
 from pathlib import Path
 

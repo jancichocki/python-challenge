@@ -1,3 +1,19 @@
+"""
+The PyRamen Analysis Tool is a Python application designed for restaurant owners to analyze 
+their ramen restaurant's sales and menu performance. This script processes sales data from 
+a CSV file and correlates it with menu data to evaluate performance on a per-product basis.
+
+Key features include:
+- Reading and processing data from 'menu_data.csv' and 'sales_data.csv'.
+- Calculating the total quantity sold, total revenue, cost of goods sold (COGS), and profit 
+  for each type of ramen on the menu.
+- Generating a detailed report that provides insights into which ramen types are performing well, 
+  and which might need changes or removal from the menu.
+
+The script outputs its findings both as a printed summary in the console and as a saved text file, 
+making it easy to review and share the performance data.
+"""
+
 import csv
 
 # Part 1: Read the Data
