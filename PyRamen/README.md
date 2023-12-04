@@ -10,6 +10,6 @@ Welcome to the PyRamen Analysis Tool, a sophisticated Python application designe
 - **Automated Report Generation** 🖨️: Outputs a detailed report summarizing key metrics including count, revenue, cost, and profit per item.
 
 ### Installation and Usage
-- For more information, check out the dedicated [PyRamen README](PyRamen/README.md)
-- You can find the scripts in the [PyRamen directory](PyRamen/).
-- The simple script version: [main.ipynb](PyRamen/main.ipynb)
+- For more information, check out the dedicated [PyRamen README](README.md)
+- You can find the scripts in the [PyRamen directory](../PyRamen/).
+- The simple script version: [main.ipynb](main.ipynb)
