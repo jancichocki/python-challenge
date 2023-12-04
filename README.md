@@ -17,8 +17,8 @@ PyBank Financial Analysis is a Python script designed for high-level financial a
 #### Installation and Usage
 For detailed instructions, refer to the specific [PyBank README](PyBank/README.md) in the PyBank directory. You can find the scripts in the [PyBank directory](PyBank/).
 
-- The simple script version: [main.py](PyBank/main.ipymb)
-- The class-structured version: [main_class_version.py](PyBank/main_class_version.ipymb)
+- The simple script version: [main.ipynb](PyBank/main.ipynb))
+- The class-structured version: [main_class_version.ipynb](PyBank/main_class_version.ipynb)
 
 ---
 
@@ -33,4 +33,4 @@ PyRamen Analysis Tool is a sophisticated Python application tailored for analyzi
 
 #### Installation and Usage
 For more information, check out the dedicated [PyRamen README](PyRamen/README.md) in the PyRamen directory and the scripts in the [PyRamen directory](PyRamen/).
-- The simple script version: [main.py](PyBank/main.ipymb)
+- The simple script version: [main.ipynb](PyBank/main.ipynb)
