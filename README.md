@@ -34,4 +34,4 @@ PyRamen Analysis Tool is a sophisticated Python application tailored for analyzi
 #### Installation and Usage
 - For more information, check out the dedicated [PyRamen README](PyRamen/README.md)
 - You can find the scripts in the [PyRamen directory](PyRamen/).
-- The simple script version: [main.ipynb](PyBank/main.ipynb)
+- The simple script version: [main.ipynb](PyRamen/main.ipynb)
