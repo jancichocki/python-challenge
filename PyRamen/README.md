@@ -13,3 +13,4 @@ Welcome to the PyRamen Analysis Tool, a sophisticated Python application designe
 - For more information, check out the dedicated [PyRamen README](README.md)
 - You can find the scripts in the [PyRamen directory](../PyRamen).
 - The simple script version: [main.ipynb](main.ipynb)
+- Pandas version: [main_advanced.ipynb](main_advanced.ipynb)
