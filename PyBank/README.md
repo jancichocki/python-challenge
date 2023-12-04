@@ -8,3 +8,6 @@ Welcome to PyBank Financial Analysis - your robust Python sidekick for financial
 - **Total Profit/Loss Computation** 💹: Get a quick summary of the net total amount of Profit/Losses over the entire period.
 - **Insightful Average Change Analysis** 📈: With our tool, you can easily determine the average change in Profit/Losses, providing key insights into financial trends.
 - **Record-Setting Performance Tracking** 🏆: Identify the greatest increase in profits and the greatest decrease in losses, complete with dates and amounts, highlighting significant financial milestones.
+
+- The simple script version: [main.ipynb](PyBank/main.ipynb)
+- The class-structured version: [main_class_version.ipynb](PyBank/main_class_version.ipynb)
