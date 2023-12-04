@@ -11,6 +11,6 @@ Welcome to PyBank Financial Analysis - your robust Python sidekick for financial
 
 ### Installation and Usage
 - For detailed instructions, refer to the specific [PyBank README](PyBank/README.md) in the PyBank directory.
-- You can find the scripts in the [PyBank directory](PyBank/).
-- The simple script version: [main.ipynb](PyBank/main.ipynb)
-- The class-structured version: [main_class_version.ipynb](PyBank/main_class_version.ipynb)
+- You can find the scripts in the [PyBank directory](/).
+- The simple script version: [main.ipynb](main.ipynb)
+- The class-structured version: [main_class_version.ipynb](main_class_version.ipynb)
